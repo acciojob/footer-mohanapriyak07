@@ -10,6 +10,7 @@
 /* 	padding:20px 40px; */
 }
 
+
 .bottom-details{
 	background-color:#505862;
 	width:100vw;
@@ -23,6 +24,12 @@
 	justify-content:space-between;
 }
 
+
+.media-icons{
+	display:flex;
+
+}
+
 .fa {
   padding: 10px;
   font-size: 3px;
@@ -30,7 +37,7 @@
   height:30px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 5px;
+  margin: 5px 5px;  
   border-radius: 50%;
 }
 
